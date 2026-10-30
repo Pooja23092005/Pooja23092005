@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi, I'm Pooja 👋🏻
 
-<!--
-**Pooja23092005/Pooja23092005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | Aspiring Technology Professional
 
-Here are some ideas to get you started:
+I'm currently learning and exploring the world of software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+
+- Python
+- Git & GitHub
+- SQL (Coming soon)
+- Software Development
+
+🎯 My Goals
+
+- Build practical projects.
+- Strengthen my programming skills.
+- Gain hands-on experience.
+- Prepare for internship and placement opportunities.
+
+🛠️ Technologies
+
+- Python
+- Git
+- GitHub
+
+📌 Interests
+
+- Technology
+- Software Development
+- Problem Solving
+
+
+
+Thanks for visiting my profile!
